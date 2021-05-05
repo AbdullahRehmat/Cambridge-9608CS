@@ -1,11 +1,11 @@
-# Chapter 04
+## Chapter 04
 
 [toc]
 
 ## 4.01 Von Neumann Model
 
 - Program 
-  - Sequence of instructions stored in memory + 
+  - Sequence of instructions stored in memory
   - Data program will process
 - Arithmetic Logic Unit
   - Performs Calculations on Data
